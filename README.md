@@ -1,4 +1,6 @@
-# Linear Regression Exercises
+# Run How Much is Your Car Worth.ipynb and Simple Linear Regression.ipynb using Ipython Notebook
+
+## Linear Regression Exercises
 
 ## Description
 
